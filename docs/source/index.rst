@@ -8,7 +8,7 @@ This is an example of documentation. It coveres themes such as:
 - Implementation
 - Testing
 - Maintenance
-
+- Pineapples
 
 .. note::
 
